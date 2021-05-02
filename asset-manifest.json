@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.11b335cb.chunk.css",
+    "main.css": "/static/css/main.3b47aa93.chunk.css",
     "main.js": "/static/js/main.f3f02e80.chunk.js",
     "main.js.map": "/static/js/main.f3f02e80.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.024c7c35.js",
@@ -14,11 +14,11 @@
     "static/js/4.5541cee2.chunk.js": "/static/js/4.5541cee2.chunk.js",
     "static/js/4.5541cee2.chunk.js.map": "/static/js/4.5541cee2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.24232f26a7a62f8a4c6e543112fe4fdb.js": "/precache-manifest.24232f26a7a62f8a4c6e543112fe4fdb.js",
+    "precache-manifest.dce45317daddca61c49d9ef86cc7d4cc.js": "/precache-manifest.dce45317daddca61c49d9ef86cc7d4cc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1855a4fa.chunk.css.map": "/static/css/3.1855a4fa.chunk.css.map",
     "static/css/4.ea3dbbf2.chunk.css.map": "/static/css/4.ea3dbbf2.chunk.css.map",
-    "static/css/main.11b335cb.chunk.css.map": "/static/css/main.11b335cb.chunk.css.map",
+    "static/css/main.3b47aa93.chunk.css.map": "/static/css/main.3b47aa93.chunk.css.map",
     "static/js/2.9f793dba.chunk.js.LICENSE.txt": "/static/js/2.9f793dba.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/UtkarshaLogo.png": "/static/media/UtkarshaLogo.9281f06e.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.024c7c35.js",
     "static/js/2.9f793dba.chunk.js",
-    "static/css/main.11b335cb.chunk.css",
+    "static/css/main.3b47aa93.chunk.css",
     "static/js/main.f3f02e80.chunk.js"
   ]
 }
