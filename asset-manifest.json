@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.222a4541.chunk.css",
-    "main.js": "/static/js/main.fdc5869b.chunk.js",
-    "main.js.map": "/static/js/main.fdc5869b.chunk.js.map",
+    "main.js": "/static/js/main.0abdedeb.chunk.js",
+    "main.js.map": "/static/js/main.0abdedeb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa29025f.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa29025f.js.map",
     "static/js/2.a0c762e0.chunk.js": "/static/js/2.a0c762e0.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e0129356.chunk.js": "/static/js/4.e0129356.chunk.js",
     "static/js/4.e0129356.chunk.js.map": "/static/js/4.e0129356.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.97ec323787f4e334ef34b3b9e5798bff.js": "/precache-manifest.97ec323787f4e334ef34b3b9e5798bff.js",
+    "precache-manifest.a8437e115f676d5179ee8ef7b9c49505.js": "/precache-manifest.a8437e115f676d5179ee8ef7b9c49505.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.1855a4fa.chunk.css.map": "/static/css/3.1855a4fa.chunk.css.map",
     "static/css/4.ea3dbbf2.chunk.css.map": "/static/css/4.ea3dbbf2.chunk.css.map",
@@ -24,16 +24,16 @@
     "static/media/Synerginalogo.png": "/static/media/Synerginalogo.6fd8d9d0.png",
     "static/media/UtkarshaLogo.png": "/static/media/UtkarshaLogo.9281f06e.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
-    "static/media/cyber.gif": "/static/media/cyber.ee82d8b6.gif",
-    "static/media/design_think_innovation.gif": "/static/media/design_think_innovation.db73144d.gif",
+    "static/media/cyber.gif": "/static/media/cyber.4e52ba64.gif",
+    "static/media/design_think_innovation.gif": "/static/media/design_think_innovation.13dad439.gif",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/form.gif": "/static/media/form.28091cf8.gif",
-    "static/media/googleanalytics.gif": "/static/media/googleanalytics.22d5f4fa.gif",
+    "static/media/form.gif": "/static/media/form.196e615b.gif",
+    "static/media/googleanalytics.gif": "/static/media/googleanalytics.ec318171.gif",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/ngvlogo.png": "/static/media/ngvlogo.76f184a4.png",
     "static/media/sjcem-logo.png": "/static/media/sjcem-logo.fb5d201d.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/system.gif": "/static/media/system.d24392fb.gif",
+    "static/media/system.gif": "/static/media/system.99281a00.gif",
     "static/media/TalkCard.css": "/static/media/talksCardBack.39eff4a9.svg",
     "static/media/tsflogo.png": "/static/media/tsflogo.91d42dee.png"
   },
@@ -41,6 +41,6 @@
     "static/js/runtime-main.aa29025f.js",
     "static/js/2.a0c762e0.chunk.js",
     "static/css/main.222a4541.chunk.css",
-    "static/js/main.fdc5869b.chunk.js"
+    "static/js/main.0abdedeb.chunk.js"
   ]
 }
