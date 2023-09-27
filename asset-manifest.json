@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93ecd345.css",
+    "main.js": "/static/js/main.d28395e6.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/system.gif": "/static/media/system.1bfb2a77563314bec343.gif",
+    "static/media/form.gif": "/static/media/form.e279a1647f35d0a69683.gif",
+    "static/media/UtkarshaLogo.png": "/static/media/UtkarshaLogo.e78bc1a1e835bfeef889.png",
+    "static/media/sjcem-logo.png": "/static/media/sjcem-logo.e9c667a29341ee97dfaa.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/ngvlogo.png": "/static/media/ngvlogo.bed5236d8483865bc2b3.png",
+    "static/media/airmouse.gif": "/static/media/airmouse.365cbecbd85aee0825fc.gif",
+    "static/media/design_think_innovation.png": "/static/media/design_think_innovation.6bcfecc8576794252989.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/tsflogo.png": "/static/media/tsflogo.f831083d076b820cfa41.png",
+    "static/media/googleanalytics.png": "/static/media/googleanalytics.423293364e505b9b0ba2.png",
+    "static/media/cyber.png": "/static/media/cyber.6ed4ebe0e3ac8784cdb9.png",
+    "static/media/Synerginalogo.png": "/static/media/Synerginalogo.ef3bd98b6de1fe2dc666.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.99241699e0279aeb0db7.svg",
+    "main.93ecd345.css.map": "/static/css/main.93ecd345.css.map",
+    "main.d28395e6.js.map": "/static/js/main.d28395e6.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ecd345.css",
+    "static/js/main.d28395e6.js"
+  ]
+}
