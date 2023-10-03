@@ -4,22 +4,17 @@
   "icons": [
     {
       "src": "/favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "96x96 32x32 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "/android-chrome-192x192.png?v8=qAJ44G5Bm7",
+      "src": "/favicon-96x96.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/android-chrome-384x384.png?v8=qAJ44G5Bm7",
-      "type": "image/png",
-      "sizes": "384x384"
+      "sizes": "96x96"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#6c63ff",
+  "theme_color": "#3373C4",
   "background_color": "#ffffff"
 }
