@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93ecd345.css",
-    "main.js": "/static/js/main.9692626f.js",
+    "main.js": "/static/js/main.bb6ae57c.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/tsflogo.png": "/static/media/tsflogo.f831083d076b820cfa41.png",
     "static/media/googleanalytics.png": "/static/media/googleanalytics.423293364e505b9b0ba2.png",
     "static/media/cyber.png": "/static/media/cyber.6ed4ebe0e3ac8784cdb9.png",
+    "static/media/Wipro_logo.png": "/static/media/Wipro_logo.431204df4a3302e3ffc0.png",
     "static/media/Synerginalogo.png": "/static/media/Synerginalogo.ef3bd98b6de1fe2dc666.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -26,7 +27,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.99241699e0279aeb0db7.svg",
     "main.93ecd345.css.map": "/static/css/main.93ecd345.css.map",
-    "main.9692626f.js.map": "/static/js/main.9692626f.js.map",
+    "main.bb6ae57c.js.map": "/static/js/main.bb6ae57c.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -34,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.93ecd345.css",
-    "static/js/main.9692626f.js"
+    "static/js/main.bb6ae57c.js"
   ]
 }
