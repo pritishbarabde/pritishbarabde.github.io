@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93ecd345.css",
-    "main.js": "/static/js/main.bb6ae57c.js",
+    "main.js": "/static/js/main.6a1dcfd8.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/airmouse.gif": "/static/media/airmouse.365cbecbd85aee0825fc.gif",
     "static/media/design_think_innovation.png": "/static/media/design_think_innovation.6bcfecc8576794252989.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/sfimar-logo.png": "/static/media/sfimar-logo.937fbb4d4f264ddda8d6.png",
     "static/media/tsflogo.png": "/static/media/tsflogo.f831083d076b820cfa41.png",
     "static/media/googleanalytics.png": "/static/media/googleanalytics.423293364e505b9b0ba2.png",
     "static/media/cyber.png": "/static/media/cyber.6ed4ebe0e3ac8784cdb9.png",
@@ -27,7 +28,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.99241699e0279aeb0db7.svg",
     "main.93ecd345.css.map": "/static/css/main.93ecd345.css.map",
-    "main.bb6ae57c.js.map": "/static/js/main.bb6ae57c.js.map",
+    "main.6a1dcfd8.js.map": "/static/js/main.6a1dcfd8.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.93ecd345.css",
-    "static/js/main.bb6ae57c.js"
+    "static/js/main.6a1dcfd8.js"
   ]
 }
